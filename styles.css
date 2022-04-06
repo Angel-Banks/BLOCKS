@@ -1,0 +1,24 @@
+
+p {
+  background-color: blue;
+  width: 100px;
+  display: inline-block;
+  /* You can chage the width of a block element but still it will allow others to sit beside it */
+}
+.second-p {
+  display: none;
+}
+
+.third-p {
+  visibility: hidden;
+}
+
+
+span {
+  background-color: pink;
+
+width: 100px;
+/* You can't change the width of an inline element*/
+}
+/* dispay:inline */
+/* dispay:block*/
